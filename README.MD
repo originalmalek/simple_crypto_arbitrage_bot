@@ -24,3 +24,4 @@ GMAIL_PASS=your_gmail_pass
 ```
 3. Run ```main.py``` using Python v3.8
 
+my telegram is @originalmalek
