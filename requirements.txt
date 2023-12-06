@@ -1,0 +1,4 @@
+python-dotenv==0.14.0
+python-binance==0.7.5
+requests==2.24.0
+pyTelegramBotAPI==3.73
